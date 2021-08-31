@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 个人主页
 
-You can use the [editor on GitHub](https://github.com/zhengxiaojun/home/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+预览地址：[https://github.com/zhengxiaojun](https://github.com/zhengxiaojun)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 集成插件
 
-### Markdown
+- [x] [typed 打字机特效](https://github.com/mattboldt/typed.js/)
+- [x] [Aplayer 音乐播放插件](https://github.com/MoePlayer/APlayer)
+- [x] [Meting 强大的 Aplayer 辅助插件](https://github.com/metowolf/MetingJS)
+- [x] [不蒜子计数](http://busuanzi.ibruce.info/)
+- [x] [看板娘](https://github.com/stevenjoezhang/live2d-widget)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 集成API
 
-```markdown
-Syntax highlighted code block
+- [x] [一言](https://hitokoto.cn/)
+- [x] [今日诗词](https://www.jinrishici.com/)
+- [x] [随机图片](https://api.ixiaowai.cn/api/api.php) 
 
-# Header 1
-## Header 2
-### Header 3
+## 好玩的
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengxiaojun/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [x] 点击冒点
+- [x] 雪花
+- [x] 搞怪标题栏 
