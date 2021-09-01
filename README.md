@@ -1,6 +1,6 @@
 ## 个人主页
 
-预览地址：[https://github.com/zhengxiaojun](https://github.com/zhengxiaojun)
+预览地址：[https://zhengxiaojun.github.io/home/](https://zhengxiaojun.github.io/home/)
 
 ## 集成插件
 
